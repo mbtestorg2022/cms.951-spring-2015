@@ -17,14 +17,75 @@ It is the responsibility of **everyone** to come prepared to engage and not just
 
 ### Advanced Topic Schedule
 
-| SES # | ADVANCED TOPICS |
-| --- | --- |
-| 3 | Risk and Crime |
-| 5 | Gender, Sexuality, and Intersectionality |
-| 6 | Ontology and Agency |
-| 9 | Studying Up |
-| 10 | Reciprocity |
-| 11 | Generalization 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+ADVANCED TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Risk and Crime
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Gender, Sexuality, and Intersectionality
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Ontology and Agency
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Studying Up
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Reciprocity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Generalization
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Ethics Assignment (due Session 2)
 ---------------------------------
