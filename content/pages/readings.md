@@ -46,7 +46,7 @@ Orgad, Shani. "How can Researchers Make Sense of the Issues Involved in Collecti
 
 Example reference: [T. L. Taylor Institutional Review Board Application from December 2012 (PDF - 1.1MB)]({{< baseurl >}}/resources/mitcms_951s15_taylorirbapp)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The iMoMS (Ian's Map of Media Studies) (PDF - 1.2MB)]({{< baseurl >}}/resources/mitcms_951s15_imoms)
+[The iMoMS (Ian's Map of Media Studies) (PDF - 1.2MB)]({{< baseurl >}}/resources/mitcms_951s15_imoms)
 
 
 {{< tdclose >}}
@@ -218,7 +218,7 @@ Sayes, Edwin. "[Actor-network Theory and Methodology: Just What does it Mean to 
 
 Lynch, Michael. "[Ontography: Investigating the Production of Things, Deflating Ontology](http://dx.doi.org/10.1177/0306312713475925)." _Social Studies of Science_ 43, no. 3 (2013): 444–62.
 
-Caplan, Paul. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Software Tunnels Through the Rags 'n Refuse: Object Oriented Software Studies and Platform Politics." (PDF)](http://www.culturemachine.net/index.php/cm/article/viewdownloadinterstitial/507/532) _Culture Machine_ 14 (2013).
+Caplan, Paul. ["Software Tunnels Through the Rags 'n Refuse: Object Oriented Software Studies and Platform Politics." (PDF)](http://www.culturemachine.net/index.php/cm/article/viewdownloadinterstitial/507/532) _Culture Machine_ 14 (2013).
 
 Winner, Langdon. "[Do Artifacts have Politics?](http://www.jstor.org/stable/20024652)" _Daedalus_ 109, no. 1 (1980): 121–36.
 
